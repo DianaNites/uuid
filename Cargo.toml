@@ -18,7 +18,7 @@ sha-1 = { version = "0.9.4", default-features = false }
 serde = { version = "1.0.123", optional = true, default-features = false, features = ["derive"] }
 
 [dependencies.bitvec]
-version = "0.21.1"
+version = "0.22.3"
 default-features = false
 features = []
 
